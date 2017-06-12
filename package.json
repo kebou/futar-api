@@ -1,0 +1,13 @@
+{
+  "name": "futar-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "kebou",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
