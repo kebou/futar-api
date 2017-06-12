@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "author": "kebou",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "moment": "^2.18.1",
     "request": "^2.81.0",
